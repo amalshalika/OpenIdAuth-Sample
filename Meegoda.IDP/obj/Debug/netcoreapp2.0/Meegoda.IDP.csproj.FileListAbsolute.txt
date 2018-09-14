@@ -1,0 +1,11 @@
+c:\users\aat\source\repos\Meegoda.IDP\Meegoda.IDP\bin\Debug\netcoreapp2.0\Meegoda.IDP.deps.json
+c:\users\aat\source\repos\Meegoda.IDP\Meegoda.IDP\bin\Debug\netcoreapp2.0\Meegoda.IDP.runtimeconfig.json
+c:\users\aat\source\repos\Meegoda.IDP\Meegoda.IDP\bin\Debug\netcoreapp2.0\Meegoda.IDP.runtimeconfig.dev.json
+c:\users\aat\source\repos\Meegoda.IDP\Meegoda.IDP\bin\Debug\netcoreapp2.0\Meegoda.IDP.dll
+c:\users\aat\source\repos\Meegoda.IDP\Meegoda.IDP\obj\Debug\netcoreapp2.0\Meegoda.IDP.csprojResolveAssemblyReference.cache
+c:\users\aat\source\repos\Meegoda.IDP\Meegoda.IDP\obj\Debug\netcoreapp2.0\Meegoda.IDP.csproj.CoreCompileInputs.cache
+c:\users\aat\source\repos\Meegoda.IDP\Meegoda.IDP\obj\Debug\netcoreapp2.0\Meegoda.IDP.AssemblyInfoInputs.cache
+c:\users\aat\source\repos\Meegoda.IDP\Meegoda.IDP\obj\Debug\netcoreapp2.0\Meegoda.IDP.AssemblyInfo.cs
+c:\users\aat\source\repos\Meegoda.IDP\Meegoda.IDP\bin\Debug\netcoreapp2.0\Meegoda.IDP.pdb
+c:\users\aat\source\repos\Meegoda.IDP\Meegoda.IDP\obj\Debug\netcoreapp2.0\Meegoda.IDP.dll
+c:\users\aat\source\repos\Meegoda.IDP\Meegoda.IDP\obj\Debug\netcoreapp2.0\Meegoda.IDP.pdb
